@@ -1,0 +1,20 @@
+{
+  "name": "wa-fundci-lab02",
+  "version": "1.0.0",
+  "description": "Exercícios do Laboratório 02 de Fundamentos de Integração Contínua e Deploy de Aplicação Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guimazito/WA-FundCI-Lab02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guimazito/WA-FundCI-Lab02/issues"
+  },
+  "homepage": "https://github.com/guimazito/WA-FundCI-Lab02#readme"
+}
